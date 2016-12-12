@@ -1,0 +1,18 @@
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.exe
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.pdb
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\bin\Debug\amr.exe
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\bin\Debug\amr.pdb
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.mainForm.resources
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.csproj.GenerateResource.Cache
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\bin\Debug\amr.exe
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\bin\Debug\amr.pdb
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.mainForm.resources
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.Properties.Resources.resources
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.csproj.GenerateResource.Cache
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.exe
+C:\Users\user21\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.pdb
+D:\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.exe
+D:\Documents\Visual Studio 2008\Projects\amr\amr\obj\Debug\amr.pdb
